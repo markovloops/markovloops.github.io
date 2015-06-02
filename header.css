@@ -4,13 +4,13 @@
 .TNW_global_header {
 color: #888;
     height: 54px;
-    background-color: #000;
+    background-color: #222;
     position: fixed;
     z-index: 1;
  /*   background: none repeat scroll 0% 0% #FFF; */
  /*    border-bottom: 1px solid #E5E5E5; */
-    background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#fafafa),color-stop(1,#f5f5f5));
-
+  /*  background:-webkit-gradient(linear,left top,left bottom,color-stop(0,#fafafa),color-stop(1,#f5f5f5));
+*/
 box-shadow: 0px 0px 2px 0px rgba(0, 0, 0, 0.5); 
    font-size: 14px !important;
     line-height: 1.5em !important;
