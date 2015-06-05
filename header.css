@@ -23,14 +23,14 @@ header a#logo {
     float:left;
     width:43px;
     height:40px;
-    background:url(tamil1-logo-1c-sd4.png) no-repeat;
+    background:url(markovloops-logo-1c-sd4.png) no-repeat;
     transition:.2s all;
     display:inline-block
 }
 
 @media (-webkit-min-device-pixel-ratio: 2),(min-resolution: 192dppx) {
 header a#logo {
-    background:url(tamil1-logo-2c-sd4.png) no-repeat left!important;
+    background:url(markovloops-logo-2c-sd4.png) no-repeat left!important;
     background-size:cover!important
 }
 }
